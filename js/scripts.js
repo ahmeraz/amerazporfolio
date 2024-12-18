@@ -1,8 +1,3 @@
-/*!
-* Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-resume/blob/master/LICENSE)
-*/
-// Scripts
-// 
 
 window.addEventListener('DOMContentLoaded', event => {
 
