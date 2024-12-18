@@ -76,6 +76,24 @@ p{
     padding: 20px;
 }
 
+a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color: lightgray; 
+    text-decoration: none; 
+}
+
+a:active {
+    color: white; 
+}
+
 .banner{
     display: block;
     margin-left: auto;
@@ -114,10 +132,6 @@ p{
     margin-left: auto;
     margin-right: auto;
 }
-
-.Official link{
-    color: white;
-    
 footer{
     text-align: center; 
     margin-top: 15px;
